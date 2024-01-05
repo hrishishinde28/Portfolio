@@ -1,0 +1,22 @@
+[
+    {
+      "organisation": "Indian Institute of Information Technology Jabalpur",
+      "startDate": "Nov, 2020",
+      "endDate": "Aug, 2024",
+      "experiences": [
+        "B.Tech - Computer Science and Engineering",
+        "Position - Student Senate"
+      ],
+      "imageSrc": "education/college.jpeg"
+    },
+
+    {
+        "organisation": "Kirti College of Arts, Science & Commerce",
+        "startDate": "Aug, 2019",
+        "endDate": "Aug, 2020",
+        "experiences": [
+          "Intermediate - Science"
+        ],
+        "imageSrc": "education/kirti.png"
+      }
+  ]
